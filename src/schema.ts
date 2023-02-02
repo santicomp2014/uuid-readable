@@ -1,7 +1,7 @@
-import Name from "../data/name";
-import Grammer from "../data/grammer";
-import Place from "../data/place";
-import Animal from "../data/animal";
+import Name from "../data_spanish/name";
+import Grammer from "../data_spanish/grammer";
+import Place from "../data_spanish/place";
+import Animal from "../data_spanish/animal";
 
 import _ from "./util.js";
 
